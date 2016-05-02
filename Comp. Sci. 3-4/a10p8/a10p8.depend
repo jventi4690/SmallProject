@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1393372116 source:y:\c++\a10p8\main.cpp
+	<iostream>
+	<windows.h>
+
+1393372116 source:y:\comp. sci. 3-4\a10p8\main.cpp
+	<iostream>
+	<windows.h>
+

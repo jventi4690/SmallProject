@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1386615098 source:y:\c++\a7p9\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1389033790 source:y:\c++\a7p9\a7p9.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+

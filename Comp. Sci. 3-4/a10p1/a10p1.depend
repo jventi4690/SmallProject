@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1391123323 source:y:\c++\a10p1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+

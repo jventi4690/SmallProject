@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1381436492 source:y:\c++\a4p6\main.cpp
+	<iostream>
+	<math.h>
+
+1387318111 source:y:\c++\a4p6\a4p6.cpp
+	<iostream>
+	<math.h>
+

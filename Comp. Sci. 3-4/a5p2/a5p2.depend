@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1381875026 source:y:\c++\a5p2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

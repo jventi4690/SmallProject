@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1386279761 source:y:\c++\a7p7\main.cpp
+	<iostream>
+
+1386011454 source:y:\c++\a7p7\a7p7.cpp
+	<iostream>
+
+1386279761 source:y:\c++\a7p7\a7p7 (2).cpp
+	<iostream>
+

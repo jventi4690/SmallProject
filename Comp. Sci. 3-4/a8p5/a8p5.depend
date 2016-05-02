@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1389303305 source:y:\c++\a8p5\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+
+1389308119 source:y:\comp. sci. 3-4\a8p5\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+

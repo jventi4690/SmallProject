@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1396387521 source:y:\c++\sfml comp sci  3-4\a11p4\main.cpp
+	<SFML/Graphics.hpp>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+

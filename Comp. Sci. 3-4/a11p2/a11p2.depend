@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1396388209 source:y:\c++\a11p2\main.cpp
+	<SFML/Graphics.hpp>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1396384609 source:y:\comp. sci. 3-4\a11p2\main.cpp
+	<SFML/Graphics.hpp>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+

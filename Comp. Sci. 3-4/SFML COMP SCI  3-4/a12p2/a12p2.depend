@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1398809509 source:y:\c++\sfml comp sci  3-4\a12p2\main.cpp
+	<iostream>
+	<math.h>
+
